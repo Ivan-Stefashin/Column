@@ -1,4 +1,4 @@
 <h1>Лабараторная работа №2</h1>
 ##first commit
-![image](https://github.com/Pavel-Stefashin/Laba2/assets/135818098/a0f15f96-653a-47a8-8c28-eed16d284e5c)
-![image](https://github.com/Pavel-Stefashin/Laba2/assets/135818098/8f8b79a7-7376-4862-873e-3bb2731eff72)
+![image](https://github.com/Pavel-Stefashin/Laba2/assets/135818098/0c9b5175-8394-437b-8c2e-35eee2ae238e)
+![image](https://github.com/Pavel-Stefashin/Laba2/assets/135818098/6552558e-d6e4-4f09-a570-6b8fda461207)
